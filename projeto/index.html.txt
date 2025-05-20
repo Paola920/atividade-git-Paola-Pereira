@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Página Inicial</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo ao meu site!</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Página Inicial</a></li>
+                <li><a href="#">Sobre</a></li>
+                <li><a href="#">Serviços</a></li>
+                <li><a href="#">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="principal">
+            <h2>Seção Principal</h2>
+            <p>Este é o conteúdo principal da minha página. Aqui você pode adicionar informações importantes sobre o seu site ou projeto.</p>
+        </section>
+
+        <section id="secundaria">
+            <h2>Outra Seção</h2>
+            <p>Esta é uma seção secundária com mais informações relevantes.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Meu Site</p>
+    </footer>
+</body>
+</html>
